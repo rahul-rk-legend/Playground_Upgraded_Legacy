@@ -1,0 +1,19 @@
+[
+    {
+        "id": 3,
+        "name": "Dynamic_Playground_Upgraded_Legacy_1",
+        "type": 0,
+        "defaultValue": "Dynamic_Playground_Upgraded_Legacy_1",
+        "optionalValues": []
+    },
+    {
+        "id": 4,
+        "name": "Dynamic_Playground_Upgraded_Legacy_2",
+        "type": 1,
+        "defaultValue": "Dynamic_Playground_Upgraded_Legacy_2",
+        "optionalValues": [
+            "Dynamic_Playground_Upgraded_Legacy_1",
+            "Dynamic_Playground_Upgraded_Legacy_2"
+        ]
+    }
+]
