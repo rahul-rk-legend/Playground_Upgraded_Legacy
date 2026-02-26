@@ -15,6 +15,8 @@
 |Copy of AV|Anti-virus alerts visualization|
 |Playground_Upgraded_Legacy_Visual_Families_1|Playground_Upgraded_Legacy_Visual_Families_1|
 |Playground_Upgraded_Legacy_Visual_Families_2|Playground_Upgraded_Legacy_Visual_Families_2|
+|Playground_Upgraded_Legacy_Visual_Families_3|Playground_Upgraded_Legacy_Visual_Families_3|
+|Playground_Upgraded_Legacy_Visual_Families_4|Playground_Upgraded_Legacy_Visual_Families_4|
 
 
 ## Jobs

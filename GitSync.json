@@ -6,7 +6,10 @@
             " MicrosoftAzureSentinel": "Adding a readme on",
             " VirusTotalV3": "Adding a readme on"
         },
-        "Visual Family": {},
+        "Visual Family": {
+            "Playground_Upgraded_Legacy_Visual_Families_3": "Adding a readme on",
+            "Playground_Upgraded_Legacy_Visual_Families_4": "Adding a readme on"
+        },
         "Playbook": {},
         "Connector": {
             "Microsoft Azure Sentinel Incident Connector": "Adding a readme on",
