@@ -1,0 +1,69 @@
+[
+    {
+        "id": 3,
+        "valueType": 4,
+        "value": "[\"Low\"]",
+        "slaPeriodType": 2,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 2,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "*"
+        ],
+        "alertType": null,
+        "values": [
+            "Low"
+        ]
+    },
+    {
+        "id": 4,
+        "valueType": 5,
+        "value": "[\"High\"]",
+        "slaPeriodType": 2,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 1,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "*"
+        ],
+        "alertType": null,
+        "values": [
+            "High"
+        ]
+    },
+    {
+        "id": 2,
+        "valueType": 3,
+        "value": "[\"Research\",\"Playground_1P_Case_Stage_2\"]",
+        "slaPeriodType": 1,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 1,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "Default Environment"
+        ],
+        "alertType": null,
+        "values": [
+            "Research",
+            "Playground_1P_Case_Stage_2"
+        ]
+    },
+    {
+        "id": 5,
+        "valueType": 2,
+        "value": "[\"Virus Found Or security risk found\"]",
+        "slaPeriodType": 0,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "C_Playground_Upgraded_Legacy",
+            "A_Playground_Upgraded_Legacy",
+            "B_Playground_Upgraded_Legacy"
+        ],
+        "alertType": 1,
+        "values": [
+            "Virus Found Or security risk found"
+        ]
+    }
+]
