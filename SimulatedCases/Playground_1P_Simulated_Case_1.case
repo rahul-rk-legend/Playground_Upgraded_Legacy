@@ -1,0 +1,64 @@
+{
+    "cases": [
+        {
+            "creatorUserId": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": [],
+                        "parentEventId": 0,
+                        "deviceEventClassId": "Playground_1P_Simulated_Case_1",
+                        "startTime": "1772100839956",
+                        "endTime": "1772100839956",
+                        "deviceProduct": "Playground_1P_Simulated_Case_1"
+                    },
+                    "_rawDataFields": {
+                        "playground_1P_Simulated_Case_1": "Playground_1P_Simulated_Case_1",
+                        "deviceEventClassId": "Playground_1P_Simulated_Case_1",
+                        "deviceProduct": "Playground_1P_Simulated_Case_1",
+                        "name": "Playground_1P_Simulated_Case_1"
+                    },
+                    "environment": null,
+                    "sourceSystemName": null,
+                    "extensions": []
+                }
+            ],
+            "environment": null,
+            "sourceSystemName": "Playground_1P_Simulated_Case_1",
+            "ticketId": null,
+            "description": null,
+            "displayId": null,
+            "reason": null,
+            "name": "Playground_1P_Simulated_Case_1",
+            "deviceVendor": "Playground_1P_Simulated_Case_1",
+            "deviceProduct": "Playground_1P_Simulated_Case_1",
+            "startTime": 1772100839956,
+            "endTime": 1772100839956,
+            "type": 0,
+            "priority": -1,
+            "ruleGenerator": "Playground_1P_Simulated_Case_1",
+            "sourceGroupingIdentifier": null,
+            "playbookTriggerKeywords": [],
+            "extensions": [
+                {
+                    "key": "Playground_1P_Simulated_Case_1",
+                    "value": "Playground_1P_Simulated_Case_1"
+                }
+            ],
+            "attachments": null,
+            "isTrimmed": false,
+            "dataType": 1,
+            "sourceType": 1,
+            "sourceSystemUrl": null,
+            "sourceRuleIdentifier": null,
+            "siemAlertId": null,
+            "updatedFields": [],
+            "alertUpdateSupported": false,
+            "alertMetadata": {},
+            "dataAccessScope": null
+        }
+    ],
+    "type": 0,
+    "connectorIdentifier": null,
+    "debugOutput": null
+}
