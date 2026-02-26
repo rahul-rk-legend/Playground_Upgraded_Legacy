@@ -3,7 +3,8 @@
     "readme_addons": {
         "Integration": {},
         "Mappings": {
-            " MicrosoftAzureSentinel": "Adding a readme on"
+            " MicrosoftAzureSentinel": "Adding a readme on",
+            " VirusTotalV3": "Adding a readme on"
         },
         "Visual Family": {},
         "Playbook": {},
