@@ -1,0 +1,38 @@
+[
+    {
+        "entityIdentifier": "Playground_Upgraded_Legacy_Custom_List_3",
+        "category": "URL",
+        "forDBMigration": false,
+        "environments": [
+            "*"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1772097074930,
+        "modificationTimeUnixTimeInMs": 1772104160483
+    },
+    {
+        "entityIdentifier": "Playground_Upgraded_Legacy_Custom_List_2",
+        "category": "Hostname",
+        "forDBMigration": false,
+        "environments": [
+            "Default Environment",
+            "C_Playground_Upgraded_Legacy",
+            "B_Playground_Upgraded_Legacy"
+        ],
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1772097060295,
+        "modificationTimeUnixTimeInMs": 1772104165827
+    },
+    {
+        "entityIdentifier": "Playground_Upgraded_Legacy_Custom_List_1",
+        "category": "Domain",
+        "forDBMigration": false,
+        "environments": [
+            "C_Playground_Upgraded_Legacy",
+            "A_Playground_Upgraded_Legacy"
+        ],
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1772104182432,
+        "modificationTimeUnixTimeInMs": 1772104182432
+    }
+]
