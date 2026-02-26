@@ -5,7 +5,10 @@
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {},
-        "Connector": {},
+        "Connector": {
+            "Microsoft Azure Sentinel Incident Connector": "Adding a readme on",
+            "Microsoft Graph Mail Delegated Connector": "Adding a readme on"
+        },
         "Job": {
             "Refresh Token Renewal Job": "Adding a readme on ",
             "Sync Incidents": "Adding a readme on "
