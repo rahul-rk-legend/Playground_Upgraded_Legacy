@@ -1,0 +1,38 @@
+[
+    {
+        "address": "192.168.0.1/1",
+        "name": "Playground_Upgraded_Legacy_Networks_1",
+        "priority": 1,
+        "environments": [
+            "C_Playground_Upgraded_Legacy",
+            "A_Playground_Upgraded_Legacy"
+        ],
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1772104110295,
+        "modificationTimeUnixTimeInMs": 1772104110295
+    },
+    {
+        "address": "192.168.0.2/2",
+        "name": "Playground_Upgraded_Legacy_Networks_2",
+        "priority": 5,
+        "environments": [
+            "Default Environment",
+            "B_Playground_Upgraded_Legacy",
+            "A_Playground_Upgraded_Legacy"
+        ],
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1772096944646,
+        "modificationTimeUnixTimeInMs": 1772104091650
+    },
+    {
+        "address": "192.168.0.3/3",
+        "name": "Playground_Upgraded_Legacy_Networks_3",
+        "priority": 3,
+        "environments": [
+            "*"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1772096967125,
+        "modificationTimeUnixTimeInMs": 1772104084915
+    }
+]
