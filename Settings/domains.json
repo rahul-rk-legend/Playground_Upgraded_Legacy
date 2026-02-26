@@ -1,0 +1,35 @@
+[
+    {
+        "alias": null,
+        "id": 4,
+        "domain": "Playground_Upgraded_Legacy_Domain_1",
+        "environments": [
+            "B_Playground_Upgraded_Legacy",
+            "A_Playground_Upgraded_Legacy"
+        ],
+        "creationTimeUnixTimeInMs": 1772104141619,
+        "modificationTimeUnixTimeInMs": 1772104141619
+    },
+    {
+        "alias": null,
+        "id": 2,
+        "domain": "Playground_Upgraded_Legacy_Domain_2",
+        "environments": [
+            "Default Environment",
+            "C_Playground_Upgraded_Legacy",
+            "B_Playground_Upgraded_Legacy"
+        ],
+        "creationTimeUnixTimeInMs": 1772096990265,
+        "modificationTimeUnixTimeInMs": 1772104121559
+    },
+    {
+        "alias": null,
+        "id": 3,
+        "domain": "Playground_Upgraded_Legacy_Domain_3",
+        "environments": [
+            "*"
+        ],
+        "creationTimeUnixTimeInMs": 1772096996339,
+        "modificationTimeUnixTimeInMs": 1772104129580
+    }
+]
