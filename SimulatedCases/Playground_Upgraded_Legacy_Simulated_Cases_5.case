@@ -1,0 +1,64 @@
+{
+    "cases": [
+        {
+            "creatorUserId": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": [],
+                        "parentEventId": 0,
+                        "deviceEventClassId": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+                        "startTime": "1772107216017",
+                        "endTime": "1772107216017",
+                        "deviceProduct": "Playground_Upgraded_Legacy_Simulated_Cases_5"
+                    },
+                    "_rawDataFields": {
+                        "playground_Upgraded_Legacy_Simulated_Cases_5": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+                        "deviceEventClassId": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+                        "deviceProduct": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+                        "name": "Playground_Upgraded_Legacy_Simulated_Cases_5"
+                    },
+                    "environment": null,
+                    "sourceSystemName": null,
+                    "extensions": []
+                }
+            ],
+            "environment": null,
+            "sourceSystemName": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+            "ticketId": null,
+            "description": null,
+            "displayId": null,
+            "reason": null,
+            "name": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+            "deviceVendor": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+            "deviceProduct": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+            "startTime": 1772107216017,
+            "endTime": 1772107216017,
+            "type": 0,
+            "priority": -1,
+            "ruleGenerator": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+            "sourceGroupingIdentifier": null,
+            "playbookTriggerKeywords": [],
+            "extensions": [
+                {
+                    "key": "Playground_Upgraded_Legacy_Simulated_Cases_5",
+                    "value": "Playground_Upgraded_Legacy_Simulated_Cases_5"
+                }
+            ],
+            "attachments": null,
+            "isTrimmed": false,
+            "dataType": 1,
+            "sourceType": 1,
+            "sourceSystemUrl": null,
+            "sourceRuleIdentifier": null,
+            "siemAlertId": null,
+            "updatedFields": [],
+            "alertUpdateSupported": false,
+            "alertMetadata": {},
+            "dataAccessScope": null
+        }
+    ],
+    "type": 0,
+    "connectorIdentifier": null,
+    "debugOutput": null
+}
