@@ -1,0 +1,253 @@
+[
+    {
+        "environment": "A_Playground_Upgraded_Legacy",
+        "integrationIdentifier": "SampleIntegration",
+        "settings": {
+            "instanceDescription": "zXZ",
+            "instanceName": "SampleIntegration_1",
+            "settings": [
+                {
+                    "propertyName": "API Root",
+                    "value": "https://api.vatcomply.com",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 76,
+                    "propertyDisplayName": "API Root",
+                    "propertyDescription": "API Root for the integration. In this case, we are integrating with \"api.vatcomply.com\" service.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "83a3ffb5-0034-4482-876f-29c51e5e8f8e"
+                },
+                {
+                    "propertyName": "Password Field",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": false,
+                    "id": 77,
+                    "propertyDisplayName": "Password Field",
+                    "propertyDescription": "Example of API password field parameter. API doesn't require authentication, this parameter is just for showcase purpose.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "83a3ffb5-0034-4482-876f-29c51e5e8f8e"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 78,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "If selected, the integration validates the SSL certificate when connecting to API Service. Selected by default.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "83a3ffb5-0034-4482-876f-29c51e5e8f8e"
+                },
+                {
+                    "propertyName": "AgentIdentifier",
+                    "value": null,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "id": 80,
+                    "propertyDisplayName": "Agent",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "83a3ffb5-0034-4482-876f-29c51e5e8f8e"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "B_Playground_Upgraded_Legacy",
+        "integrationIdentifier": "VirusTotalV3",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "VirusTotalV3_1",
+            "settings": [
+                {
+                    "propertyName": "API Key",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": true,
+                    "id": 85,
+                    "propertyDisplayName": "API Key",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "e0a39f52-255f-4c71-a6c5-36ff454fbd26"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 86,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "e0a39f52-255f-4c71-a6c5-36ff454fbd26"
+                },
+                {
+                    "propertyName": "AgentIdentifier",
+                    "value": null,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "id": 88,
+                    "propertyDisplayName": "Agent",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "e0a39f52-255f-4c71-a6c5-36ff454fbd26"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "C_Playground_Upgraded_Legacy",
+        "integrationIdentifier": "MicrosoftAzureSentinel",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "MicrosoftAzureSentinel_1",
+            "settings": [
+                {
+                    "propertyName": "Azure Subscription ID",
+                    "value": "fdsfdsffdf",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 100,
+                    "propertyDisplayName": "Azure Subscription ID",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                },
+                {
+                    "propertyName": "Azure Active Directory ID",
+                    "value": "dfdfdf",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 101,
+                    "propertyDisplayName": "Azure Active Directory ID",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                },
+                {
+                    "propertyName": "Api Root",
+                    "value": "https://management.azure.com",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 102,
+                    "propertyDisplayName": "Api Root",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                },
+                {
+                    "propertyName": "OAUTH2 Login Endpoint Url",
+                    "value": "https://login.microsoftonline.com",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 103,
+                    "propertyDisplayName": "OAUTH2 Login Endpoint Url",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                },
+                {
+                    "propertyName": "Azure Resource Group",
+                    "value": "dfdfdfdfdsf",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 104,
+                    "propertyDisplayName": "Azure Resource Group",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                },
+                {
+                    "propertyName": "Azure Sentinel Workspace Name",
+                    "value": "dfdsfdfdfdf",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 105,
+                    "propertyDisplayName": "Azure Sentinel Workspace Name",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                },
+                {
+                    "propertyName": "Client ID",
+                    "value": "dfdfdfdfdfd",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 106,
+                    "propertyDisplayName": "Client ID",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                },
+                {
+                    "propertyName": "Client Secret",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": true,
+                    "id": 107,
+                    "propertyDisplayName": "Client Secret",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "False",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 108,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                },
+                {
+                    "propertyName": "AgentIdentifier",
+                    "value": null,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "id": 110,
+                    "propertyDisplayName": "Agent",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "MicrosoftAzureSentinel",
+                    "integrationInstance": "f49000f9-492f-46bd-a924-a79e259a531e"
+                }
+            ]
+        }
+    }
+]
